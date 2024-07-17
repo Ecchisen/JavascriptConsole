@@ -1,3 +1,4 @@
+//creating Rock, Paper, Scissor game for theodinproject
 let round = 1;
 let computerWins = 0;
 let userWins = 0;
